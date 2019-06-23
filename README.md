@@ -2,7 +2,7 @@
 Data Analytics - Boot Camp - Homework #2 - The VBA of Wall Street
 # Unit 2 | Assignment - The VBA of Wall Street
 
-![hard_solution](Images/rice-cookers2.jpg)
+![hard_solution](rice-cookers2.jpg)
 
 ### Hard
 
